@@ -1,12 +1,11 @@
-# Xin chào, tôi là Luitpold-Alexander 👋🏽
+# Hey there, I'm Luitpold-Alexander 👋🏽
 
-Senior Software Engineer at NFQ.
+Yet another Software Engineer based in Sài Gòn, Việt Nam.
 
 ___
 
 ### Check me out
 
-- [Corporate Github profile](https://github.com/luitpoldalexander)
 - [LinkedIn](https://www.linkedin.com/in/luitpold/)
 - [Contact](https://luitpold.me)
 - [Personal blog](https://lui.vn)
